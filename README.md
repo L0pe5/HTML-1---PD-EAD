@@ -1,5 +1,5 @@
 # HTML 2 - PD EAD
-## Observação cada um deve criar seu proprio respositório e me adicionar como participante nele. Não é para subir informações neste repositório.
+## Observação cada um deve criar seu proprio respositório e me adicionar como participante nele. Não é para subir informações neste repositório. Email "matheuslopes.instrutor@gmail.com"
 ## 🧩 Atividade: “Criação de um site institucional completo”
 ## 🎯 Objetivo
 ### Construir um site simples usando HTML semântico e CSS básico, com foco em estrutura, hierarquia e organização visual.
